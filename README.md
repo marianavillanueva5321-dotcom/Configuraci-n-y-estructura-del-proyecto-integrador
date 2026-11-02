@@ -1,7 +1,5 @@
 # Configuraci-n-y-estructura-del-proyecto-integrador
 
-Definicion de Alcance
+Propuesta de solución
 
-1.- Desarrollo de un sistema para organizar y clasificar los archivos del ususario en categorias espesificas : archivos de trabajo, archivos personales, descargas y aquellos que ocupan demasiado espacio.
-
-2.- implementación de una estructura que permita al usuario buscar y localizar sus archivos de forma más rapida,evitando que se le olviden
+Nosotros queremos crear un programa que indexa, organiza y le permite encontrar a las personas sus archivos perdidos. Para darle esa facilidad a la gente que se llega a olvidar en dónde fue que guardo un archivo o carpeta importante.
