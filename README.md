@@ -9,4 +9,6 @@ Mucha gente no tiene organizados sus archivos personales y por lo general ni siq
 2.- implementación de una estructura que permita al usuario buscar y localizar sus archivos de forma más rapida,evitando que se le olviden
 
 ## Propuesta de solución
+Propuesta de solución
+
 Nosotros queremos crear un programa que indexa, organiza y le permite encontrar a las personas sus archivos perdidos. Para darle esa facilidad a la gente que se llega a olvidar en dónde fue que guardo un archivo o carpeta importante.
